@@ -8,3 +8,5 @@ README.md
 docker-compose.yml
 .env.example
 *.png
+.env.dev
+.env.prod
